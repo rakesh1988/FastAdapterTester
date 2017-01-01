@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">FastAdapterTester</string>
+    <string name="title_activity_rv_holder">RvHolder</string>
+</resources>
